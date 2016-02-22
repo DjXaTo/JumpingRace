@@ -4,7 +4,9 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 //esto es un comentario para pushear
+
 public class Smokepuff extends GameObject{
+
     public int r;
     public Smokepuff(int x, int y)
     {
@@ -14,6 +16,7 @@ public class Smokepuff extends GameObject{
     }
     public void update()
     {
+
         x-=10;
     }
     public void draw(Canvas canvas)
