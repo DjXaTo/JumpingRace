@@ -2,6 +2,7 @@ package com.example.ciclo.jumpingrace;
 
 import android.graphics.Canvas;
 import android.view.SurfaceHolder;
+//esto es un comentario para pushear
 
 public class MainThread extends Thread
 {

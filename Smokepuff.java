@@ -3,7 +3,7 @@ package com.example.ciclo.jumpingrace;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
-
+//esto es un comentario para pushear
 public class Smokepuff extends GameObject{
     public int r;
     public Smokepuff(int x, int y)

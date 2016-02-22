@@ -1,6 +1,7 @@
 package com.example.ciclo.jumpingrace;
 
 import android.graphics.Bitmap;
+//esto es un comentario para pushear
 
 public class Animation {
     private Bitmap[] frames;

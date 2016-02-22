@@ -1,6 +1,7 @@
 package com.example.ciclo.jumpingrace;
 
 import android.graphics.Rect;
+//esto es un comentario para pushear
 
 public abstract class GameObject {
     protected int x;

@@ -2,7 +2,7 @@ package com.example.ciclo.jumpingrace;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
-
+//esto es un comentario para pushear
 
 public class Player extends GameObject{
     private Bitmap spritesheet;

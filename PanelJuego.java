@@ -6,9 +6,8 @@ import android.graphics.Canvas;
 import android.view.MotionEvent;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
-
 import java.util.ArrayList;
-
+//esto es un comentario para pushear
 
 public class PanelJuego extends SurfaceView implements SurfaceHolder.Callback
 {
